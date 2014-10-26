@@ -2,9 +2,9 @@ CodeBook.md
 -----------------------------
 
 
-# Tidy Dataset Columns
-
-|Column Name|Description|
+### Tidy Dataset Columns
+| Column Name | Description | 
+| ------------------------------ | ------------------------------------------------------------ |
 |ActivityID|A value of 1-6 corresponding to Activity|
 |Activity|The text name of the Activity|
 |Subject|A value of 1-30 representing the subject of this observation|
@@ -74,5 +74,3 @@ CodeBook.md
 |fBodyBodyGyroMag-std()|Average measurement of the original dataset|
 |fBodyBodyGyroJerkMag-mean()|Average measurement of the original dataset|
 |fBodyBodyGyroJerkMag-std()|Average measurement of the original dataset|
-
-
